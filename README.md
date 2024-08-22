@@ -8,7 +8,7 @@
 
 ## Автор
 
-- Github - [VladaCode]([https://github.com/MikeBeloborodov](https://github.com/VladaCode/posmotri_v_okno)
+- Github - [VladaCode](https://github.com/VladaCode/posmotri_v_okno)
 
 ## Функциональность
 
